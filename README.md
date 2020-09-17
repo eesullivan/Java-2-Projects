@@ -2,6 +2,7 @@
 #### The following projects were created by James Dizikes for CS2334
 #### I received full credit on each project
 
+All projects were about Elementary Cellular Automatons (ECA). For more information about ECAs, please visit https://mathworld.wolfram.com/ElementaryCellularAutomaton.html
 
 ## Project 1: A Simple Program with Complex Behavior
 #### Overview
