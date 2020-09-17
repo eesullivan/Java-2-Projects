@@ -1,6 +1,6 @@
 # Java-2-Projects 
-## The following projects were created by James Dizikes for CS2334
-## I received full credit on each project
+#### The following projects were created by James Dizikes for CS2334
+#### I received full credit on each project
 
 # Project 1
 ## Overview
