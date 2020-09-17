@@ -5,8 +5,7 @@
 Given a rule number, true and false character representations, and an initial state, I created a program where the main class would do the following:
   * getRuleNum(): Return the Wolfram Code for the rule that governs the evolution of the ECA.
  *evolve(int numSteps): Evolve the ECA a given number of steps.
- * getTotalSteps(): Return the total number of steps that the ECA has evolved. This is equal to the total
-number of generations minus 1, since the initial state is generation 0.
+ * getTotalSteps(): Return the total number of steps that the ECA has evolved. 
  *getState(int stepNum): Return an array with the states of the cells after the given step. The step number
 must be less than or equal to the total number of steps.
  *getStateString(int stepNum): Return a String that represents the states of the cells after the given step.
