@@ -5,7 +5,7 @@
 # Project 2
 
 # Project 3: Visualizing Automaton Evolution
-## Introduction
+## Overview
 
 In Project 2, I wrote a utility class named `AutomatonMeasurements` to calculate quantities that describe cellular automaton evolution.
 This class includes the following two methods:
@@ -17,3 +17,5 @@ This class includes the following two methods:
 
 In this project, I used these methods along with the rest of my Project 2 code to calculate Hamming distance and subrule count data for a particular elementary cellular automaton.
 Then I plotted this data using the [JavaFX] graphics library.
+
+In the Project 3 folder, you will find my generated data plots.
