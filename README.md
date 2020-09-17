@@ -2,6 +2,7 @@
 #### The following projects were created by James Dizikes for CS2334
 #### I received full credit on each project
 
+
 # Project 1
 ## Overview
 Given a rule number, true and false character representations, and an initial state, I created a program where the main class would do the following:
@@ -26,8 +27,12 @@ constructed from a text file.
 
 In order to have the above methods work, three other classes were created: Rule, Generation, and Cell.
 
+
+
 # Project 2
 ## Overview
+
+
 
 
 # Project 3: Visualizing Automaton Evolution
