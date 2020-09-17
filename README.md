@@ -40,7 +40,7 @@ For a full list of methods and more information about the project, please see th
 ## Project 3: Visualizing Automaton Evolution
 #### Overview
 
-In Project 2, I wrote a utility class named `AutomatonMeasurements` to calculate quantities that describe cellular automaton evolution.
+In Project 2, I wrote a utility class named AutomatonMeasurements (as mentioned above) to calculate quantities that describe cellular automaton evolution.
 This class includes the following two methods:
 
 1. `int[] hammingDistances(Automaton a)`: Given an Automaton that has evolved some number of steps, return an array of the Hamming distances between each successive Generation.(The length of the array is equal to the number of steps.)
