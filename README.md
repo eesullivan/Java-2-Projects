@@ -3,8 +3,8 @@
 #### I received full credit on each project
 
 
-# Project 1
-## Overview
+## Project 1
+#### Overview
 Given a rule number, true and false character representations, and an initial state, I created a program where the main class would do the following:
 * getRuleNum(): Return the Wolfram Code for the rule that governs the evolution of the ECA.
 * evolve(int numSteps): Evolve the ECA a given number of steps.
@@ -29,14 +29,14 @@ In order to have the above methods work, three other classes were created: Rule,
 
 
 
-# Project 2
-## Overview
+## Project 2
+#### Overview
 
 
 
 
-# Project 3: Visualizing Automaton Evolution
-## Overview
+## Project 3: Visualizing Automaton Evolution
+#### Overview
 
 In Project 2, I wrote a utility class named `AutomatonMeasurements` to calculate quantities that describe cellular automaton evolution.
 This class includes the following two methods:
