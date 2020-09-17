@@ -3,7 +3,7 @@
 #### I received full credit on each project
 
 
-## Project 1
+## Project 1: A Simple Program with Complex Behavior
 #### Overview
 Given a rule number, true and false character representations, and an initial state, I created a program where the main class would do the following:
 * getRuleNum(): Return the Wolfram Code for the rule that governs the evolution of the ECA.
@@ -29,7 +29,7 @@ In order to have the above methods work, three other classes were created: Rule,
 
 
 
-## Project 2
+## Project 2: Not-So-Elementary Cellular Automata
 #### Overview
 
 
