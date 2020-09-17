@@ -32,7 +32,8 @@ In order to have the above methods work, three other classes were created: Rule,
 
 ## Project 2: Not-So-Elementary Cellular Automata
 #### Overview
-
+Project 2 builds on the ideas of Project 1. While Project 1 simulated the evolution of ECAs on a finite grid, Project 2 models ECAs using a modular design. This allows for a simulation of multiple types of rules and different boundary conditions. Project 2 also featured utility classes, AutomatonMeasurements. These calculations included the hamming distance between generations of automatons in different forms, as well as methods for calculating how many times a specific subrule is used in evolving automata generations.
+For a full list of methods and more information about the project, please see the Project 2 folder.
 
 
 
