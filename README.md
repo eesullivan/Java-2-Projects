@@ -1,6 +1,6 @@
 # Java-2-Projects 
 #### The following projects were created by James Dizikes for CS2334
-#### I received full credit on each project but due to the academic nature of the code, it is hidden. The summation of all projects was with Project 3 and my output graphs are available to view in the Project 3 folder.
+#### I received full credit on each project but due to the academic nature of the code, it is hidden. However, the summation of all projects was Project 3 and my output graphs are available to view in the Project 3 folder.
 
 All projects were about Elementary Cellular Automatons (ECA). For more information about ECAs, please visit https://mathworld.wolfram.com/ElementaryCellularAutomaton.html
 
